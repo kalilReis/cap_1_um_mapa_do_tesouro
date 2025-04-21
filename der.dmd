@@ -1,0 +1,16 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="der" id="5504F9EC-9113-88BB-345D-754CCCC5945C" version="3.5">
+<createdBy>krs</createdBy>
+<createdTime>2025-04-20 20:04:07 UTC</createdTime>
+<ownerDesignName>der</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>5504F9EC-9113-88BB-345D-754CCCC5945C</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="069044F2-55EF-A1A6-7F56-7DB5E1575428">
+<designStoragePath>/tables</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="F80D65A3-38B2-73E9-4828-AA609DCEE9E1">
+<designStoragePath>/tables</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
